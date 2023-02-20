@@ -5,6 +5,6 @@ A simple javascript app that allows the user to create a to-do list, with the ab
 ![A Screenshot of the To-Do list](./public/todo.png)
 
 ## Technologies Used
-*Javascript
-*HTML
-*jQuery
+-Javascript
+-HTML
+-jQuery
