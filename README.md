@@ -5,3 +5,5 @@ A simple javascript app that allows the user to create a to-do list, with the ab
 Javascript
 
 HTML
+
+jQuery
